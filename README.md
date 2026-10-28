@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm silent-ax 👋
 
-<!--
-**silent-ax/silent-ax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Web Developer | Aspiring Full Stack Developer
 
-Here are some ideas to get you started:
+I'm passionate about building clean, accessible, and maintainable web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- 💻 Working with HTML, CSS, and modern JavaScript.
+- 🧹 Focused on code quality, readability, and maintainability.
+- 🌱 Learning software design and full-stack development.
+- 🚀 Building practical projects to improve my development skills.
+
+### Technologies
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Git & GitHub
+
+### Portfolio
+
+Explore my completed projects and live demos:
+
+**[Visit My Portfolio](#)** *(Replace with your portfolio URL when published.)*
+
+### Contact
+
+- GitHub: [@silent-ax](https://github.com/silent-ax)
+
+---
+
+*Always learning. Always building.*
